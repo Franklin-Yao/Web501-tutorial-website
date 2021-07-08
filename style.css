@@ -1,6 +1,8 @@
 header{
     background: url(images/central_park.jpg) 0 -200px no-repeat;
-    background-size: 1500px;
+    /* Note I changed 1500px to 100% because my screen seems wider than 1500px*/
+    /* background-size: 1500px; */
+    background-size: 100%;
     height: 400px;
     padding-top: 100px;
     padding-left: 100px;
